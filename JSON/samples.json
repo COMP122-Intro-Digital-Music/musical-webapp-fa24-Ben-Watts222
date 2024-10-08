@@ -3,7 +3,7 @@
     "name": "a-sample",
     "file": "samples/a-sample.mp3",
     "bpm": "120",
-    "loop": "7s"
+    "loop": "2m"
   },
   {
     "name": "whistle",
