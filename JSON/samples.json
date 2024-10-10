@@ -7,13 +7,13 @@
   },
   {
     "name": "whistle",
-    "file": "samples/wav",
+    "file": "samples/whistle.wav",
     "bpm": "120",
     "loop": "7s"
   },
   {
-    "name": "audiomass-output (1)",
-    "file": "samples/mp3",
+    "name": "audiomass-output",
+    "file": "samples/audiomass-output.mp3",
     "bpm": "120",
     "loop": "7s"
   }
