@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "a-sample",
+    "file": "samples/a-sample.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "whistle",
+    "file": "samples/whistle.wav",
+    "bpm": "120",
+    "loop": "7s"
+  },
+  {
+    "name": "audiomass-output",
+    "file": "samples/audiomass-output.mp3",
+    "bpm": "120",
+    "loop": "7s"
+  }
+]
